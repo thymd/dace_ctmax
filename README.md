@@ -2,6 +2,8 @@
 
 # Data for the article "Upper thermal tolerance differs between populations of a cyprinid fish, *Pseudaspius sachalinensis*."
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19625081.svg)](https://doi.org/10.5281/zenodo.19625081)
+
 ---
 
 ## Overview
